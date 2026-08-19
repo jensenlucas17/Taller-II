@@ -1,0 +1,19 @@
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\Practico 1.exe
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\Practico 1.deps.json
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\Practico 1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\Practico 1.dll
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\Practico 1.pdb
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\bin\Debug\net10.0-windows\aa\Practico 1.resources.dll
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico_1.Form1.resources
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico_1.Form1.aa.resources
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\aa\Practico 1.resources.dll
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.dll
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\refint\Practico 1.dll
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.pdb
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\Practico 1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Practico 1\Practico 1\obj\Debug\net10.0-windows\ref\Practico 1.dll
