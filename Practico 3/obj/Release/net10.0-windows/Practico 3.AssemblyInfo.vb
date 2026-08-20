@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Practico 3"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e5a9f0dd4b490a15ca3094dc6b827f6c5b9f52"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Practico 3"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Practico 3"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
